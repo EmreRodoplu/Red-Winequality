@@ -1,0 +1,21 @@
+[project]
+name = "stellar"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "catboost>=1.2.10",
+    "ipykernel>=7.2.0",
+    "lightgbm>=4.6.0",
+    "minisom>=2.3.6",
+    "numpy>=2.2.6",
+    "optuna>=4.8.0",
+    "pandas>=2.3.3",
+    "polars>=1.41.0",
+    "pyarrow>=24.0.0",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "shap>=0.49.1",
+    "xgboost>=3.2.0",
+]
